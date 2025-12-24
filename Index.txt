@@ -1,0 +1,49 @@
+1. Basics of Python
+
+-Syntax and indentation
+-Variables and data types
+-Operators (arithmetic, logical, comparison, bitwise)
+-Input and output functions
+
+2. Control Flow
+
+-Conditional statements (if, elif, else)
+-Loops (for, while, break, continue)
+
+3. Data Structures
+
+-Lists, tuples, sets, and dictionaries
+-List and dictionary comprehensions
+
+4. Functions and Modules
+
+-Defining functions (def keyword)
+-Arguments (*args, **kwargs)
+-Lambda functions
+-Importing modules (import numpy as np, from math import sqrt)
+
+5. File Handling
+
+-Reading and writing files (open(), .read(), .write())
+-Working with CSV files (useful for Pandas)
+
+6. Object-Oriented Programming (OOP) [Optional but Useful]
+
+-Classes and objects
+-Inheritance and polymorphism
+
+7. Exception Handling
+
+-try-except blocks
+
+8. Working with NumPy, Pandas, Matplotlib, and Seaborn
+
+-NumPy: Arrays, indexing, reshaping, broadcasting
+-Pandas: DataFrames, Series, indexing, filtering, merging, groupby
+-Matplotlib & Seaborn: Plotting, customization, labels, histograms, scatter plots
+
+9. Introduction to AI-related Topics
+
+-Basics of Machine Learning
+-Using libraries like Scikit-learn for simple models
+-Understanding how AI models handle data
